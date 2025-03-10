@@ -32,7 +32,7 @@ Neste desafio, você irá implementar uma simulação de uma conta bancária uti
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/SEU_USUARIO/DesafioDIOContaBancaria.git
+   git clone (https://github.com/calebewerneckcouto/DesafioContaBancariaDIO.git)
 
 
  2.  Navegue até o diretório do projeto:
